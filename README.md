@@ -1,4 +1,4 @@
-# Active Record Associations Introduction: Playlister
+# Active Record Associkations Introduction: Playlister
 
 ## Objectives
 
